@@ -16,7 +16,13 @@
  * 
  */
 
-let numeroGatos = 10;
+/** Tú estarás en Bahamas trabajando de apicultory tu pareja será nadie y tendréis 10 gatos */
 
-let futuro = "tendréis " + numeroGatos + " gatos"; // <-- Vas a tener que modificar esta línea
+
+let numeroGatos = 2;
+let pareja = "nadie";
+let país = "Japón";
+let trabajo = "programador";
+
+let futuro = "Tú estarás en " + país + " trabajando de " + trabajo + " y tu pareja será " + pareja + " y tendréis " + numeroGatos + " gatos"; // <-- Vas a tener que modificar esta línea
 console.log(futuro);
