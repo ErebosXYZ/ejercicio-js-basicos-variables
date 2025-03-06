@@ -32,4 +32,4 @@ console.log("Ejercicio 9: Posición del último carácter 's'");
 console.log(texto.lastIndexOf("s")); 
 
 console.log("Ejercicio 10: String en orden inverso"); 
-console.log(texto.substring(20, 0)); 
+console.log(texto.split("").reverse().join("")); 
